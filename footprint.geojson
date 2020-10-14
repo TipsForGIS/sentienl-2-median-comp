@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "footprint2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.312923431396484, 30.486698771371056 ], [ 31.357555389404293, 30.486698771371056 ], [ 31.357555389404293, 30.522786671883711 ], [ 31.312923431396484, 30.522786671883711 ], [ 31.312923431396484, 30.486698771371056 ] ] ] } }
+]
+}
